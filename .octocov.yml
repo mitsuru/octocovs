@@ -1,0 +1,9 @@
+central:
+  root: .
+  reports:
+    datastores:
+      - artifact://${GITHUB_REPOSITORY}
+  badges:
+    datastores:
+      - local://badges
+  push:
