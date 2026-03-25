@@ -2,7 +2,7 @@ central:
   root: .
   reports:
     datastores:
-      - artifact://${GITHUB_REPOSITORY}
+      - artifact://mitsuru/fulgur
   badges:
     datastores:
       - local://badges
