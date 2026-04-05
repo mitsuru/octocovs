@@ -2,7 +2,7 @@
 
 | Repository | Coverage | Code to Test Ratio | Time Execution Time | Badges |
 | --- | --- | --- | --- | --- |
-| [mitsuru/fulgur](https://github.com/mitsuru/fulgur) | 81.4% | 1:0.1 | 1s | ![mitsuru/fulgur](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/coverage.svg) ![mitsuru/fulgur](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/ratio.svg) ![mitsuru/fulgur](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/time.svg) <details><summary>Copy status badge markdown</summary>```![Coverage](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/coverage.svg)```<br>```![Code to Test Ratio](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/ratio.svg)```<br>```![Test Execution Time](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/time.svg)```</details> |
+| [mitsuru/fulgur](https://github.com/mitsuru/fulgur) | 81.6% | 1:0.1 | 1s | ![mitsuru/fulgur](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/coverage.svg) ![mitsuru/fulgur](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/ratio.svg) ![mitsuru/fulgur](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/time.svg) <details><summary>Copy status badge markdown</summary>```![Coverage](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/coverage.svg)```<br>```![Code to Test Ratio](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/ratio.svg)```<br>```![Test Execution Time](https://raw.githubusercontent.com/mitsuru/octocovs/main/badges/mitsuru/fulgur/time.svg)```</details> |
 
 ---
 
